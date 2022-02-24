@@ -31,7 +31,7 @@ More information about my scientific and enterprise career can be found in my li
 
 ## Blog posts
 
-I have my [personal blog](https://) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. The code is open sourced and can be found in [this repo](https://github.com/miguelgfierro/sciblog).
+I have my [personal blog](https://) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. 
 
 Here there is the list of posts published on my blog and on other blogs:
 
