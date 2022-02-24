@@ -1,5 +1,5 @@
-[![Twitter](https://img.shields.io/twitter/follow/wcambiuc?style=social)](https://twitter.com/wcambiuc)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Follow%20wcambiuc-blue?logo=linkedin)](https://www.linkedin.com/in/wcamb/)
+[![Twitter](https://img.shields.io/twitter/follow/wcambiuc?style=social)](https://twitter.com/intent/follow?screen_name=wcambiuc)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Follow%20Waldemir-blue?logo=linkedin)](https://www.linkedin.com/in/wcamb/)
 
 # Publications
 
