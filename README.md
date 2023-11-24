@@ -11,11 +11,11 @@ More information about my scientific and enterprise career can be found in my li
 
 ## Preprint / Arxiv
 
-CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023. https://arxiv.org/abs/2301.05759 
+\[1\] CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023. https://arxiv.org/abs/2301.05759 
 
 ## Conferences
 
-2023 IEEE International Conference on Quantum Computing and Engineering (QCE) 979-8-3503-4323-6/23/$31.00 ©2023 IEEE, DOI 10.1109/QCE57702.2023.10237. https://qce.quantum.ieee.org/2023/ 
+\[1\] 2023 IEEE International Conference on Quantum Computing and Engineering (QCE) 979-8-3503-4323-6/23/$31.00 ©2023 IEEE, DOI 10.1109/QCE57702.2023.10237. https://qce.quantum.ieee.org/2023/ 
 
 ## Scientific Journals
 
@@ -27,18 +27,4 @@ CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraph
 
 ## Books and book chapters
 
-\[1\] SOON!
-
-## Blog posts
-
-I have my [personal blog](https://) where I write about artificial intelligence, machine learning, technical business and other random stuff that comes to my mind. The blog has been designed to mimic the appearance of a scientific paper. I did it that way to honor my scientific background. 
-
-Here there is the list of posts published on my blog and on other blogs:
-
-\[1\] SOON!
-
-\[2\] SOON!
-
-## Interviews
-
-\[1\] SOON!
+\[1\] Microsoft Azure: Arquitetura Bem Definida (Portuguese Edition) Paperback – June 29, 2021. Portuguese Edition by Waldemir Cambiucci (Author), Gilson Banin (Author), Giuliano Cardoso (Author), et.al.
