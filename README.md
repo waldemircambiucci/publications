@@ -9,23 +9,21 @@
 In this repo, you will find some of the publications that I have done during my career.
 More information about my scientific and enterprise career can be found in my linkedin page at https://www.linkedin.com/in/wcamb/
 
+## Preprint / Arxiv
+
+CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023.
+
 ## Conferences
 
-\[1\] SOON!
-
-\[2\] SOON!
+2023 IEEE International Conference on Quantum Computing and Engineering (QCE) 979-8-3503-4323-6/23/$31.00 ©2023 IEEE, DOI 10.1109/QCE57702.2023.10237.
 
 ## Scientific Journals
 
 \[1\] SOON!
 
-\[2\] SOON!
-
 ## Theses
 
 \[1\] SOON!
-
-\[2\] SOON!
 
 ## Books and book chapters
 
