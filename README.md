@@ -11,11 +11,11 @@ More information about my scientific and enterprise career can be found in my li
 
 ## Preprint / Arxiv
 
-CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023.
+CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023. https://arxiv.org/abs/2301.05759 
 
 ## Conferences
 
-2023 IEEE International Conference on Quantum Computing and Engineering (QCE) 979-8-3503-4323-6/23/$31.00 ©2023 IEEE, DOI 10.1109/QCE57702.2023.10237.
+2023 IEEE International Conference on Quantum Computing and Engineering (QCE) 979-8-3503-4323-6/23/$31.00 ©2023 IEEE, DOI 10.1109/QCE57702.2023.10237. https://qce.quantum.ieee.org/2023/ 
 
 ## Scientific Journals
 
