@@ -28,8 +28,10 @@ More information about my scientific and enterprise career can be found in my li
 
 ## Books and book chapters
 
-<img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" />
- 
+<p float="left">
+ <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200"/>
+</p>
+
 \[1\] Microsoft Azure: Arquitetura Bem Definida (Portuguese Edition) Paperback – June 29, 2021. Portuguese Edition by Waldemir Cambiucci (Author), Gilson Banin (Author), Giuliano Cardoso (Author), et.al. https://www.amazon.com/Microsoft-Azure-Arquitetura-Definida-Portuguese/dp/B098CGX31J/
 
 \[2\] Uma introdução sobre IA, IOT, CLOUD, QUANTUM e outros temas: Coletânea de artigos publicados Paperback - January 6, 2024. Portuguese Edition by Waldemir Cambiucci (Author). https://www.amazon.com/introdu%C3%A7%C3%A3o-sobre-CLOUD-QUANTUM-outros/dp/B0CRQ8R5L2/
