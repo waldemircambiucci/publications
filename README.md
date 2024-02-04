@@ -28,7 +28,7 @@ More information about my scientific and enterprise career can be found in my li
 
 ## Books and book chapters
 
-<img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://m.media-amazon.com/images/I/61RTxyQSGYS._SY425_.jpg)" width="200" />
+<img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" />
  
 \[1\] Microsoft Azure: Arquitetura Bem Definida (Portuguese Edition) Paperback – June 29, 2021. Portuguese Edition by Waldemir Cambiucci (Author), Gilson Banin (Author), Giuliano Cardoso (Author), et.al. https://www.amazon.com/Microsoft-Azure-Arquitetura-Definida-Portuguese/dp/B098CGX31J/
 
