@@ -9,6 +9,13 @@
 In this repo, you will find some of the publications that I have done during my career.
 More information about my scientific and enterprise career can be found in my linkedin page at https://www.linkedin.com/in/wcamb/
 
+## ORCID
+
+[![ORCID](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://orcid.org/assets/vectors/orcid.logo.svg)
+https://orcid.org/0000-0002-8334-1358.
+WALDEMIR CAMBIUCCI
+WALDEMIR CAMBIUCCI; CAMBIUCCI, WALDEMIR; CAMBIUCCI, W.; W.CAMBIUCCI; W. CAMBIUCCI
+
 ## Preprint / Arxiv
 
 \[1\] CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023. https://arxiv.org/abs/2301.05759.
