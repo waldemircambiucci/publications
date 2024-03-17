@@ -10,10 +10,8 @@ In this repo, you will find some of the publications that I have done during my 
 More information about my scientific and enterprise career can be found in my linkedin page at https://www.linkedin.com/in/wcamb/
 
 ## ORCID
-
-https://orcid.org/0000-0002-8334-1358.
-WALDEMIR CAMBIUCCI
 WALDEMIR CAMBIUCCI; CAMBIUCCI, WALDEMIR; CAMBIUCCI, W.; W.CAMBIUCCI; W. CAMBIUCCI
+https://orcid.org/0000-0002-8334-1358.
 
 ## Preprint / Arxiv
 
