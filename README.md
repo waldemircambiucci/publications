@@ -6,29 +6,33 @@
 
 # Publications
 
-In this repo, you will find some of the publications that I have done during my career.
-More information about my scientific and enterprise career can be found in my linkedin page at https://www.linkedin.com/in/wcamb/
+•	CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. In: 2023 IEEE International Conference on Quantum Computing and Engineering (QCE). IEEE, 2023. p. 268-269. https://arxiv.org/abs/2301.05759. 
+
+•	W. CAMBIUCCI, R. M. SILVEIRA and W. V. RUGGIERO, "Hypergraphic Partitioning of Quantum Circuits for Distributed Quantum Computing", 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), Bellevue, WA, USA, 2023, pp. 268-269, doi: 10.1109/QCE57702.2023.10237.
+
+•	CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Arquitetura para sistema de computação quântica distribuída multi-QPU com particionamento de circuitos. In: WORKSHOP DE REDES QUÂNTICAS, 1. , 2024, Niterói/RJ. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 7-12. DOI: https://doi.org/10.5753/wqunets.2024.2857. 
+
+•	W. Cambiucci, R. M. Silveira and W. V. Ruggiero, "Hypergraphic Partitioning for Spatial and Temporal Quantum Circuit Cutting", 2024 IEEE International Conference on Quantum Computing and Engineering (QCE), Montreal, QC, Canada, 2024, pp. 486-487, doi: 10.1109/QCE60285.2024.10368.
+
+•	W. CAMBIUCCI, R. M. SILVEIRA and W. V. RUGGIERO, "Efficient Partitioning Strategies for Distributed Adaptive Quantum Circuits" 2024, Adaptive Quantum Circuits, Brewster, MA (Cape Cod), USA, 2024, https://aqcqm.com/ 
+
+•	Waldemir CAMBIUCCI, Regina Melo SILVEIRA, Wilson Vicente RUGGIERO, October 9, 2024, "Static and adaptive quantum circuits for VQE ansatz in hypergraphic partitioning", IEEE Dataport, doi: https://dx.doi.org/10.21227/tc8b-ev76. 
+
+•	Waldemir CAMBIUCCI, Regina M. SILVEIRA, Wilson V. RUGGIERO, October 1, 2024, "Primal and dual hypergraphic representation for quantum circuits in hypergraphic partitioning", IEEE Dataport, doi: https://dx.doi.org/10.21227/fqjn-zc55.
+
+•	W. Cambiucci, R. M. Silveira and W. V. Ruggiero, "Spatial and temporal circuit cutting with hypergraphic partitioning", International Experts Summit on Quantum Technologies (QuantumTech Summit-2025), Singapore, 2025. Pre-print on arxiv. https://arxiv.org/abs/2504.09334.
+
+•	W. Cambiucci, R. M. Silveira and W. V. Ruggiero, "Hypergraphic representation for adaptive quantum circuits", 2025 IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2025), Nara, Japan, 2025. Pre-print on arxiv: https://arxiv.org/abs/2504.09318.
+
+•	Waldemir Cambiucci ; Regina Melo Silveira; Wilson Vicente Ruggiero, "Co-design threading model and circuit cutting for adaptive quantum circuits", Journal Springer Nature, https://link.springer.com/journal/11128. 
+
+•	Waldemir CAMBIUCCI, Regina Melo SILVEIRA, Wilson Vicente RUGGIERO, December 17, 2024, "Static and Adaptive Quantum Circuits for Co-Design and Multi-threading Partitioning Approach", IEEE Dataport, doi: https://dx.doi.org/10.21227/mtr0-sp35. 
+
+•	W. Cambiucci, R. M. Silveira and W. V. Ruggiero, "Architecture for a multi-QPU distributed quantum computing system with circuit partitioning". International Journal of Exact Sciences (ISSN 2966-1153). DOI: https://doi.org/10.22533/at.ed.153212520019. 
 
 ## ORCID
 WALDEMIR CAMBIUCCI; CAMBIUCCI, WALDEMIR; CAMBIUCCI, W.; W.CAMBIUCCI; W. CAMBIUCCI
 https://orcid.org/0000-0002-8334-1358.
-
-## Preprint / Arxiv
-
-\[1\] CAMBIUCCI, Waldemir; SILVEIRA, Regina Melo; RUGGIERO, Wilson Vicente. Hypergraphic partitioning of quantum circuits for distributed quantum computing. arXiv preprint arXiv:2301.05759, 2023. https://arxiv.org/abs/2301.05759.
-
-## Conferences
-
-\[1\] W. Cambiucci, R. M. Silveira and W. V. Ruggiero, "Hypergraphic Partitioning of Quantum Circuits for Distributed Quantum Computing," 2023 IEEE International Conference on Quantum Computing and Engineering (QCE), Bellevue, WA, USA, 2023, pp. 268-269, doi: 10.1109/QCE57702.2023.10237. keywords: {Frequency modulation;Costs;Scalability;Qubit;Benchmark testing;Logic gates;Teleportation;quantum computing;distribution of quantum circuits;circuit optimization;partitioning of quantum circuits;hypergraph partitioning}, https://ieeexplore.ieee.org/document/10313901.
-
-
-## Scientific Journals
-
-\[1\] SOON!
-
-## Theses
-
-\[1\] SOON!
 
 ## Books and book chapters
 
